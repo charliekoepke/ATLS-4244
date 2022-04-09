@@ -1,3 +1,3 @@
-# HTML5 Boilerplate Template
+# Emotional Contagion
 
-> Create a custom starting template that combines HTML5 Boilerplate with a webpack dart-sass setup. Modify to create your own custom starter elements. Version with git and keep updated!
+The purpose of this website is to define what emotional contagion is, illustrate its effects in an online setting, and also illustrate its effect in advertsising. There will also be a critique on how emotional contagion is used in advertising, such as if it is morally right or not.
