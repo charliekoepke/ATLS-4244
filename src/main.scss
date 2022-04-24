@@ -30,6 +30,10 @@ h2 {
     font-weight: 100;
 }
 
+p {
+    text-align: justify;
+}
+
 sup a {
     text-decoration: none;
     color: blue;
@@ -37,41 +41,47 @@ sup a {
 
 .grid {
     display: grid;
-    grid-template-rows: 33.33% 33.33% 33.33%;
+    grid-template-rows: auto;
     grid-template-columns: 50% 50%;
+    padding: 1%;
 }
 
 .row1-column1 {
     grid-row: 1;
     grid-column: 1;
+
+    background: #5D726D;
+    padding: 1em;
 }
 .row1-column2 {
     grid-row: 1;
     grid-column: 2;
+    
+    padding: 1em;
 }
 .row2-column1 {
     grid-row: 2;
     grid-column: 1;
+
+    padding: 1em;
 }
 .row2-column2 {
     grid-row: 2;
     grid-column: 2;
+
+    background: #D7B877;
+    padding: 1em;
 }
 .row3-column1 {
     grid-row: 3;
     grid-column: 1;
+
+    background: #A3836E;
+    padding: 1em;
 }
 .row3-column2 {
     grid-row: 3;
     grid-column: 2;
-}
 
-.float-right {
-    float: right;
-    margin-left: 1%;
-}
-
-.float-left {
-    float: left;
-    margin-right: 1%;
+    padding: 1em;
 }
