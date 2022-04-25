@@ -17,3 +17,7 @@ Colour Scheme from [Adobe Color](https://color.adobe.com/)
 [The Emotional Contagion Scale: A Measure of Individual Differences, by: R. William Doherty](https://link.springer.com/article/10.1023/A:1024956003661)
 
 ## Image Sources
+
+[emotional-contagion.jpeg](https://www.theemotionmachine.com/how-to-use-the-power-of-emotional-contagion-to-change-your-mood/)
+[facebook.jpeg](https://www.cbsnews.com/news/controversial-facebook-emotion-study-journal-responds/)
+[advertising.png](https://www.emerald.com/insight/content/doi/10.1108/RAUSP-03-2019-0038/full/html)
